@@ -4,5 +4,7 @@ public class HalloweenTest {
         System.out.println("second change");
         System.out.println("third change");
     }
+
+    // line 1
 }
 
