@@ -3,4 +3,6 @@ public class Halloween {
         System.out.println("hello halloween");
         // updating Halloween class from master
     }
+
+    // adding commits
 }
